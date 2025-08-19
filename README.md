@@ -3,7 +3,7 @@ Motivation + widget
 
 ### I created the frontend of this mobile application.The backend was created by @FHamidov
 
-## texnologiyalar:
+## technologies:
 ```bash
 React-Native
 node.js
